@@ -34,7 +34,7 @@ verification, we propose an interpretable image-embedding that cuts the search i
 
 Neural networks can be trained to predict a vector representations for images, such that the relative camera position between
 pairs of images is approximated by a distance in vector space. And there are a few versions of such relations, that 
-unfortunately are hard to interprete.
+unfortunately are not interpretable.
 <p align="center">
   <img src="assets/world-space-measure.png" alt="Different ways of encoding positional relationship between pairs of images" width="600" />
 </p>
