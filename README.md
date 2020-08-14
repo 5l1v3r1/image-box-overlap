@@ -1,9 +1,9 @@
-# [Predicting Visual Overlap of Images Through Interpretable Non-Metric Box Embeddings](https://arxiv.org/abs/)
+# [Predicting Visual Overlap of Images Through Interpretable Non-Metric Box Embeddings](https://arxiv.org/abs/2008.05785)
 
 **[Anita Rau](https://www.ucl.ac.uk/surgical-robot-vision/anita-rau), [Guillermo Garcia-Hernando](https://guiggh.github.io/), [Danail Stoyanov](https://scholar.google.co.uk/citations?user=pGfEK6UAAAAJ&hl=en), [Gabriel J. Brostow](http://www0.cs.ucl.ac.uk/staff/g.brostow/) and [Daniyar Turmukhambetov](http://dantkz.github.io/about)  – ECCV 2020 (Spotlight presentation)**
 
 
-[Link to paper](https://arxiv.org/abs/)  
+[Link to paper](https://arxiv.org/abs/2008.05785)  
 
 <p align="center">
   <a href="https://storage.googleapis.com/niantic-lon-static/research/image-box-overlap/short-video.mp4">
@@ -73,7 +73,7 @@ and also interpretable by humans.
 
 ## ✏️ 📄 Citation
 
-If you find our work useful or interesting, please consider citing [our paper](https://arxiv.org/abs/):
+If you find our work useful or interesting, please consider citing [our paper](https://arxiv.org/abs/2008.05785):
 
 ```
 @inproceedings{rau-2020-image-box-overlap,
