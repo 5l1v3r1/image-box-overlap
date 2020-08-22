@@ -4,6 +4,8 @@
 
 
 [Link to paper](https://arxiv.org/abs/2008.05785)  
+  
+[Supplementary pdf](https://github.com/nianticlabs/image-box-overlap/raw/master/Predicting_Visual_Overlap_Supplement.pdf)  
 
 <p align="center">
   <a href="https://storage.googleapis.com/niantic-lon-static/research/image-box-overlap/short-video.mp4">
