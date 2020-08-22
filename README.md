@@ -19,7 +19,7 @@
 </p>
 
 
-**Code and supplementary pdf are coming soon...**
+**Code coming soon...**
 
 
 <p align="center">
